@@ -24,4 +24,17 @@ header{
 
 .links-container a:hover{
     background-color: var(--accent-color);
+    border-radius: 5%;
 }
+
+@media (max-width:768px){
+    header{
+        height: 70px;
+    }
+    .links-container{
+        display: none;
+    }
+}
+
+
+
