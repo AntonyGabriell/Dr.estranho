@@ -18,7 +18,7 @@ body{
     display: flex;
     flex-direction: column;
     padding: 0 128px;
-    animation: zoom 1.5s alternate;
+    animation: zoom 1s alternate;
 }
 
 @media (max-width: 768px){
